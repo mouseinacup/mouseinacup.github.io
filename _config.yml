@@ -1,0 +1,23 @@
+title: Mint
+author: DR Red
+email: catwithpiano@gmail.com
+description: A blog of Red's research
+
+github_username: mouseinacup
+# twitter_username:
+# facebook_username:
+# dribbble_username:
+# instagram_username:polarnight2090
+
+# date_format:
+
+# google_analytics:
+# disqus_shortname:
+
+blog_theme: auto
+
+markdown: kramdown
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
